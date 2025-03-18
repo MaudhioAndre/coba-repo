@@ -16,7 +16,6 @@ Jalankan perintah berikut untuk menjalankan proyek: `python main.py`
 Jika Anda ingin berkontribusi, silakan buat *pull request*.
 
 ## eaeaeaae
-Jika Anda ingin berkontribusi, silakan buat *pull request*.
 `python main.py`
 1. Kloning repositori: `git clone <URL_repositori>`
 2. Buka direktori proyek: `cd nama_proyek`
