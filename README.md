@@ -19,3 +19,11 @@ Jika Anda ingin berkontribusi, silakan buat *pull request*.
 `python main.py`
 1. Kloning repositori: `git clone <URL_repositori>`
 2. Buka direktori proyek: `cd nama_proyek`
+   
+# GASKEUN
+**Teks Tebal**
+__Teks Tebal__  
+***Teks Tebal dan Miring***
+*Teks Miring*
+[Kunjungi Situs Web Kami](https://www.example.com)
+> Ini adalah kutipan.
